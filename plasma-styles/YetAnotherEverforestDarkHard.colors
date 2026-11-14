@@ -103,8 +103,8 @@ ForegroundPositive=167,192,128
 ForegroundVisited=214,153,182
 
 [General]
-ColorScheme=YetAnotherEverforestHard
-Name=(Yet Another) Everforest Hard
+ColorScheme=YetAnotherEverforestDarkHard
+Name=(Yet Another) Everforest Dark Hard
 TintFactor=0.13
 shadeSortColumn=true
 
