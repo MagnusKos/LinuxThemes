@@ -8,17 +8,19 @@ Also there are (or could be) some other color-scheme things for some apps.
 
 ---
 
-**(Yet Another) Everforest Hard**. A port of the [Everforest](https://github.com/sainnhe/everforest) palette (dark, *hard* background variant) by sainnhe (MIT). Every color value is canonical - no invented shades. 
-
-![(Yet Another) Everforest Hard](previews/\(YetAnother\)EverforestHard_card.png)
+**(Yet Another) Everforest Dark Hard**. A port of the [Everforest](https://github.com/sainnhe/everforest) palette (dark, *hard* background variant) by sainnhe (MIT). Every color value is canonical - no invented shades. 
 
 **(Yet Another) Gruvbox Dark Hard**. A port of the [gruvbox](https://github.com/morhetz/gruvbox) palette (dark, *hard* background variant) by morhetz (MIT). Mine based on the GruvboxDarkHard scheme, with the menu-highlight readability fix applied. 
 
-![(Yet Another) Gruvbox Dark Hard](previews/\(YetAnother\)GruvboxDarkHard_card.png)
-
 **P3-CRT Soft**. An original theme: a softened P3-phosphor amber CRT look. Foreground contrast was tuned to ~7.4:1 to avoid the eye strain of full-saturation amber terminals. Yes, it is not strictly amber theme: it is inspired by monochrome CRT, but it is not totally monochrome. Only the main colors are amber-ish.
 
-![P3 CRT Soft](previews/P3CRTSoft_card.png)
+<table>
+  <tr>
+    <td><img src="./preview/(YetAnother)EverforestDarkHard2_11.26.png" alt="(Yet Another) Everforest Dark Hard"></td>
+    <td><img src="./preview/(YetAnother)GruvboxDarkHard2_11.26.png" alt="(Yet Another) Gruvbox Dark Hard"></td>
+    <td><img src="./preview/P3CRTSoft2_11.26.png" alt="P3 CRT Soft"></td>
+  </tr>
+</table>
 
 ---
 
@@ -59,5 +61,4 @@ selection, not the red-ish `bg_visual` used by some other ports.
   <https://github.com/morhetz/gruvbox>. The theme is derived from KDE's
   official `gruvbox Dark` theme (© 2017 Pavel Pertsev, 2020 Frederik Banning,
   MIT).
-* **P3 CRT Soft** is an original theme by me (MagnusKos).
-* Everything in this repository is MIT-licensed, see [LICENSE](LICENSE).
+* **P3 CRT Soft** is an original theme by me (MagnusKos), MIT license.
